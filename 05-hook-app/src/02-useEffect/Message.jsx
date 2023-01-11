@@ -19,8 +19,7 @@ export const Message = () => {
 
     return (
         <>
-            <hr />
-            <h3>Usuario ya existe</h3>
+            <div className="alert alert-warning mt-2">Usuario ya existe</div>
         </>
     )
 }

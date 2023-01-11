@@ -1,7 +1,7 @@
 import { useCounter, useFetch } from "../Hooks";
 import { Quote, LoadingQuote } from "../Components";
 
-export const MultipleCustomHooks = () => {
+export const Layout = () => {
   const { counter, incrementar, reducir, resetear } = useCounter(1);
 
   const { data, isLoading, hasError } = useFetch(
@@ -23,6 +23,6 @@ export const MultipleCustomHooks = () => {
       <button className={"btn btn-primary"} onClick={() => incrementar()}>
         Next quote
       </button>
-    </>
+    </> 
   );
 };
