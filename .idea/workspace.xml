@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98523cca-1698-4cf5-b635-df51aa2e5b4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-intro-javascript/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-intro-javascript/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/04-git-expert-react" />
+  </component>
+  <component name="ProjectId" id="2JuOk3KyCj6xtfXMZXTSgLcdjA1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05-hook-app/src/02-useEffect" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact\05-hook-app\src\02-useEffect" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact" />
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact\02-intro-javascript\src\bases" />
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact\02-intro-javascript\src\bases\" />
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact\02-intro-javascript\src\09-promesas" />
+      <recent name="C:\Users\jmunoz\WebstormProjects\CursoReact\01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98523cca-1698-4cf5-b635-df51aa2e5b4c" name="Default Changelist" comment="" />
+      <created>1672924640433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672924640433</updated>
+      <workItem from="1672924641546" duration="11651000" />
+      <workItem from="1672940498327" duration="1077000" />
+      <workItem from="1673009403383" duration="9441000" />
+      <workItem from="1673266321427" duration="15958000" />
+      <workItem from="1673352882219" duration="2241000" />
+      <workItem from="1673355144899" duration="45000" />
+      <workItem from="1673355204188" duration="2865000" />
+      <workItem from="1673358086712" duration="238000" />
+      <workItem from="1673358335512" duration="52000" />
+      <workItem from="1673358397577" duration="15000" />
+      <workItem from="1673358421908" duration="11713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/02-intro-javascript/src/bases/10-fetch.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
