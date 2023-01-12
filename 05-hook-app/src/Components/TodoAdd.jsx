@@ -12,10 +12,11 @@ export const TodoAdd = ({ onNewTodo }) => {
     const newTodo = {
       id: new Date().getTime(),
       done: false,
-      deescription: description,
+      desc: description,
     };
 
     onNewTodo(newTodo);
+    onResetForm()
   };
 
   return (
